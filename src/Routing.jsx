@@ -13,6 +13,7 @@ const Routing = () => {
 <Image/>
     </>
   )
+  
 }
 
 export default Routing
